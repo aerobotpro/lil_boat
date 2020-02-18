@@ -1,5 +1,6 @@
 # lil_boat
 Its a lil boat but watch it float!
+Targeting all architecture/OS!(cross platform c2)
 
 ## Just a Proof of Concept for now but I will finish and ultimately release :)
 
